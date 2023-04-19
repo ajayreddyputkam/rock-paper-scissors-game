@@ -6,7 +6,7 @@ export const MainBgContainer = styled.div`
   padding: 10px;
   display: flex;
   justify-content: center;
-  align-items: center;
+  padding-top: 30px;
 `
 
 export const GameMainContainer = styled.div`

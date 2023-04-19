@@ -19,7 +19,9 @@ export const ItemButton = styled.button`
   border: none;
   outline: none;
   cursor: pointer;
+  min-width: 120px;
   width: 100%;
+  max-width: 330px;
 `
 export const ItemImage = styled.img`
   width: 100%;
